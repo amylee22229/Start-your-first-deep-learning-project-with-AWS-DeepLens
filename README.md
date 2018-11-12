@@ -18,7 +18,7 @@ In this tutorial, we will guide you through creating and deploying your first de
 
 1.2. For the first time to start with this console, the get started page would be shown, click **Register Device**; otherwise, click the hamburger icon on the left side, choose **Devices**, then click **Register Device**. 
 
-! [image 1.png](image 1.png)
+![register device.png](/images/register device.png)
 
 1.3. Step 1, Configure your AWS account: 
 * In *Name your device*, give a specific name to your device (e.g. MyDeepLens).
@@ -91,7 +91,7 @@ In this tutorial, we will guide you through creating and deploying your first de
 
 3.6. Wait until the deployment display green and show succeeded.
 
-! [image 2.png](image 2.png)
+![deploy succeed.png](/images/deploy succeed.png)
 
 ### View Project Output through MQTT client
 
@@ -103,7 +103,7 @@ In this tutorial, we will guide you through creating and deploying your first de
 
 4.4. *Paste* the topic into the Subscription topic input field.
 
-! [image 3.png](image 3.png)
+![MQTT topic.png](/images/MQTT topic.png)
 
 4.5. Click **Subscribe to topic**.
 
